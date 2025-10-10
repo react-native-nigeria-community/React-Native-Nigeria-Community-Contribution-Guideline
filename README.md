@@ -1,4 +1,4 @@
-# **React Native Community Contribution Guideline**
+# **React Native Nigeria Community Contribution Guideline**
 
 Welcome to the **React Native Nigeria Community**! 🎉
 We’re excited that you want to contribute.
