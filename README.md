@@ -68,7 +68,8 @@ To contribute to any of these projects:
 
 ## **2. Documentation Contributor Guideline**
 
-*(Coming soon — stay tuned!)*
+If you are interested in sharing your knowledge via articles and tutorials, you can contribute by writing for us on Medium.<br/>
+Click this [link](https://medium.com/p/1e84fad21627) to get started. We can't wait to see your articles.📜📃
 
 ---
 
