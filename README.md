@@ -11,14 +11,13 @@ There are two main ways to contribute:
 
 Please check out the relevant guides before you start.
 
----
 
 ## **1. Developer Contributor Guideline**
 
 **React Native Nigeria** is an open-source community that maintains several open-source projects and published npm packages.
 Some repositories are private and accessible only to community admins.
 
-### 🧠 Steps to Contribute
+### Steps to Contribute
 
 #### **a. Hosting a New React Native Project on the Community Repo**
 
@@ -44,9 +43,7 @@ If you’d like to contribute by hosting your React Native project or package un
 
    * You’ll receive an immediate response on the call
    * You’ll be added to the **Slack workspace**
-   * Please introduce yourself in the **#introductions** channel 🎤
-
----
+   * Please introduce yourself in the **#introductions** channel 
 
 #### **b. Contributing to a Public Open-Source Repository**
 
@@ -62,16 +59,12 @@ To contribute to any of these projects:
 7. Make your changes and commit with a clear message.
 8. Push your branch and open a **Pull Request (PR)**.
 9. Assign a reviewer (usually a maintainer or team lead).
-10. Your code will be reviewed and merged once approved. ✅
-
----
+10. Your code will be reviewed and merged once approved. 
 
 ## **2. Documentation Contributor Guideline**
 
 If you are interested in sharing your knowledge via articles and tutorials, you can contribute by writing for us on Medium.<br/>
-Click this [link](https://medium.com/p/1e84fad21627) to get started. We can't wait to see your articles.📜📃
-
----
+Click this [link](https://medium.com/p/1e84fad21627) to get started. We can't wait to see your articles.
 
 ### 💡 Quick Reminders
 
@@ -80,7 +73,6 @@ Click this [link](https://medium.com/p/1e84fad21627) to get started. We can't wa
 * Always test your changes before submitting a pull request.
 * Never push directly to the `main` branch.
 
----
 
 **Thank you for contributing to the React Native Nigeria Community! 💚**
 Your work helps make React Native development better for everyone.
